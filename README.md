@@ -20,40 +20,23 @@ Deployed a full OpenStack cloud (via DevStack) on Ubuntu, creating a private Iaa
 🚀 **AWS Core Services Mastery:**
 
 
-**EC2:**
+**EC2:** Launched instances, used User Data scripts to auto-deploy Apache web server.
 
-Launched instances, used User Data scripts to auto-deploy Apache web server.
+**VPC**:  Built a custom virtual network with subnets, route tables, and an Internet Gateway.
 
-**VPC**: 
+**Security**:  Configured Security Groups with least-privilege access (SSH restricted to My IP).
 
-Built a custom virtual network with subnets, route tables, and an Internet Gateway.
+**EBS**:  Created, attached, formatted, and mounted block storage volumes.
 
-**Security**: 
+**S3**: Used AWS CLI to upload/download files to a secure object storage bucket.
 
-Configured Security Groups with least-privilege access (SSH restricted to My IP).
+📈 **Automation**: Automated setup tasks with bash scripting and AWS bootstrapping.
 
-**EBS**: 
+🐛 **Troubleshooting**: Resolved issues in networking, firewalls, permissions, and service configs.
 
-Created, attached, formatted, and mounted block storage volumes.
-
-**S3**: 
-
-Used AWS CLI to upload/download files to a secure object storage bucket.
-
-📈 **Automation**: 
-
-Automated setup tasks with bash scripting and AWS bootstrapping.
-
-🐛 **Troubleshooting**: 
-
-Resolved issues in networking, firewalls, permissions, and service configs.
-
-📊 **Professional Reporting**: 
-
-Documented the entire process with a detailed LaTeX report.
+📊 **Professional Reporting**: Documented the entire process with a detailed LaTeX report.
 
 🛠️ **Technology Stack**
-
 
 **Hypervisor**: 
 VMware Workstation Pro
