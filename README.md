@@ -1,5 +1,5 @@
 # Cloud-Computing-VMware-AWS-OpenStack
-🚀 **Short Description**
+🚀 **Project Description**
 
 A hands-on project building a hybrid cloud environment. Deployed local VMs (CentOS, Windows, OpenStack) & configured AWS services (EC2, VPC, S3, EBS). Demonstrates end-to-end cloud infrastructure skills.
 
